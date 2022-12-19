@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 # 💫 About Me:
 🔭 I’m looking for a job as an iOS Develop in the Netherlands
 
@@ -22,4 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=PavelBohomolny&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
