@@ -1,7 +1,4 @@
 # 💫 About Me:
-🔭 I’m looking for a job as an iOS Develop in the Netherlands
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-bohomolnyi/) 
 
