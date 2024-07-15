@@ -1,13 +1,55 @@
-# 💫 About Me:
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavel-bohomolnyi/) 
+<h1 align="center">👋 Hello, I'm Pavel 👨🏻‍💻</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Apple+Developer" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PavelBohomolny&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PavelBohomolny&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelBohomolny&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+I am a software engineer with nearly 4 years of diverse experience working on various projects and for different companies. I have proven front-end development and web design expertise, with a particular passion for iOS development. I have successfully worked as a solo iOS developer for small companies and as part of large, collaborative teams. I have also developed and launched my app on the App Store. I am highly organized, detail-oriented, and self-motivated, with a solid ability to learn quickly and solve complex problems. I am committed to professional growth and fostering positive, productive relationships within my organization.
+</p>
+<p align="center">
+Skills: Swift programming language, iOS SDK and frameworks, UIKit and SwiftUI, Design Patterns(MVVM, MVC, TCA), Auto Layout and Interface Builder, Unit testing, CoreBluetooth, Core Data, SwiftData, Supabase, Firebase Firestore, Networking and RESTful APIs, Multithreading and concurrency, Async/Await, PromiseKit, Combine, Performance optimization techniques, Continuous integration and continuous deployment, Git and version control systems, Agile methodologies and Scrum, Research and technology evaluation, Firebase Crashlytics and Analytics, App Store submission and distribution, Figma, Zeplin.
+</p>
+
+<div align="center">
+  <h3 align="center">GitHub Stats 
+    <a href="https://github.com/PavelBohomolny" target="_blank">
+      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+    </a>
+  </h3>
+  <a href="https://github.com/PavelBohomolny" target="_blank">
+  </a>
+</div>
+
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=PavelBohomolny&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+
+<h3 align="center">📫 Let's Connect!</h3>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:pbogomolny93@gmail.com" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Pavel+Bohomolnyi&size=square" alt="Pavel Bohomolnyi" style="width: 120px; height: 120px; margin: 10px;">
+        </a>
+      </td>
+      <td align="center" style="padding-left: 20px;">
+        <a href="https://www.linkedin.com/in/pavelbohomolnyi/" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpavelbohomolnyi-a95b66253%2F&subtitle=@Pavel+Bohomolnyi&size=square" alt="Davit Natenadze" style="width: 120px; height: 120px;">
+        </a>
+      </td>
+      <td align="center" style="padding-left: 20px;">
+        <a href="https://x.com/pavelbohomolnyi" target="_blank">
+          <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fpavelbohomolnyi&subtitle=@pavelbohomolnyi&size=square" alt="Pavel Bohomolnyi" style="width: 120px; height: 120px;">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
