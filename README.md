@@ -11,21 +11,6 @@ I am a software engineer with nearly 4 years of diverse experience working on va
 Skills: Swift programming language, iOS SDK and frameworks, UIKit and SwiftUI, Design Patterns(MVVM, MVC, TCA), Auto Layout and Interface Builder, Unit testing, CoreBluetooth, Core Data, SwiftData, Supabase, Firebase Firestore, Networking and RESTful APIs, Multithreading and concurrency, Async/Await, PromiseKit, Combine, Performance optimization techniques, Continuous integration and continuous deployment, Git and version control systems, Agile methodologies and Scrum, Research and technology evaluation, Firebase Crashlytics and Analytics, App Store submission and distribution, Figma, Zeplin.
 </p>
 
-<div align="center">
-  <h3 align="center">GitHub Stats 
-    <a href="https://github.com/PavelBohomolny" target="_blank">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-    </a>
-  </h3>
-  <a href="https://github.com/PavelBohomolny" target="_blank">
-  </a>
-</div>
-
-
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=PavelBohomolny&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-
 <h3 align="center">📫 Let's Connect!</h3>
 
 
