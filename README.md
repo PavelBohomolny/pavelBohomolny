@@ -35,11 +35,4 @@ Skills: Swift programming language, iOS SDK and frameworks, UIKit and SwiftUI, D
     </tr>
   </table>
 </div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-[![](https://visitcount.itsvg.in/api?id=PavelBohomolny&icon=5&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
